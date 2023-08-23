@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+> “햇볕은 감미롭고, 비는 상쾌하고, 바람은 힘을 돋우며, 눈은 마음을 설레게 한다. 세상에 나쁜 날씨란 없다. 서로 다른 종류의 좋은 날씨가 있을 뿐이다.” - 존 러스킨
+> 
+> 
+우리의 감정과 하루도 날씨와 같아요. 유어웨더는 간단한 기록을 남기는 행위만으로도 나만의 컨텐츠가 만들어져요.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+>
