@@ -1,4 +1,4 @@
-## 유어웨더, 오늘 당신의 감정 날씨는? 
+## 유어웨더, 오늘 당신의 감정 날씨는? https://www.notion.so/4d8249f3157f4cb9bc014ba5567eff6f
 Google Play 앱 출시 심사 중 (2023.08)
 
 
@@ -12,4 +12,7 @@ Google Play 앱 출시 심사 중 (2023.08)
 ![image](https://github.com/yourweather/.github/assets/128222199/97db15e2-95be-446b-9c80-08a9c7ecf3d6)
 
 
+![image](https://github.com/yourweather/.github/assets/128222199/d4f553ec-f3f7-4a3c-800e-3ee221778708)
 
+
+![image](https://github.com/yourweather/.github/assets/128222199/2ed97ff1-0455-4f5c-9cb0-027ece88b7ea)
